@@ -39,7 +39,7 @@ Please visit our [Documentation](https://techgarage.media/dokumentation)
 == Changelog ==
 
 = 0.9.1 =
-* Test Version 4
+* Test Version 4 new
 = 0.9 =
 * Test Version 3
 
