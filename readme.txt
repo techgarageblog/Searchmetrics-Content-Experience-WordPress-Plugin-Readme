@@ -38,5 +38,11 @@ Please visit our [Documentation](https://techgarage.media/dokumentation)
 
 == Changelog ==
 
+= 0.9 =
+* Test Version 3
+
+= 0.8.1 =
+* Test Version 2
+
 = 0.8 =
 * Test Version
